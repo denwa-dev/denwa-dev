@@ -1,10 +1,11 @@
-<div width="100%" align="left">
+<div width="100%" align="center">
 <a href="https://denwa-dev.vercel.app/">
 <img src="https://user-images.githubusercontent.com/113398750/225261507-aec19b47-e576-4d39-b878-d9724f7d3bb6.png">
 </div>
 </a>
 </div>
-<h1 align="left">Dennis Drueck</h1>
+
+<h1 align="center">Dennis Drueck</h1>
 
 <h3 align="left">I'm a full stack engineer passionate about pragmatic, scalable solutions.</h3>
 
