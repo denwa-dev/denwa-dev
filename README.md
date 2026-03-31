@@ -4,9 +4,9 @@
 </div>
 </a>
 </div>
-<h1 align="left">👋 Hello! I'm Dennis Drueck</h1>
+<h1 align="left">Dennis Drueck</h1>
 
-<h3 align="left">I'm a full stack engineer passionate about pragmatic, scalable solutions. </h3>
+<h3 align="left">I'm a full stack engineer passionate about pragmatic, scalable solutions.</h3>
 
 -   👨‍💻 Currently working at [Egen AI](https://egen.ai/)
 -   💡 Currently learning **GCP Professional Cloud Architect, Terraform, Microfrontend Architecture**
